@@ -16,7 +16,7 @@
 https://zhuanlan.zhihu.com/p/34191320
 
 ## 在线演示
-http://120.79.60.130/#/user/login
+http://cmdb.mmtweb.xyz/#/user/login
 用户名：admin  密码：cmdbcmdb (请不要修改)
 
 ## 特性
